@@ -21,7 +21,7 @@ I'm Ngila (Oscar) Mulei, a Financial Planning and Analysis (FP&A) based in Nairo
 #### 💻 Technologies & Tools
 
 <code><img height="20" src="https://staging.python.org/static/community_logos/python-logo-master-v3-TM.png"></code>
-<code><img height="20" src="https://techcommunity.microsoft.com/t5/excel/excel-logo/m-p/3433211"></code>
+<code><img height="20" src="https://logos-world.net/excel-logo/"></code>
 <code><img height="20" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></code>
 <code><img height="20" src="https://logowik.com/content/uploads/images/microsoft-power-bi4194.jpg"></code>
 
@@ -36,7 +36,7 @@ I'm Ngila (Oscar) Mulei, a Financial Planning and Analysis (FP&A) based in Nairo
 
 #### 📚 Featured Projects
 
-#### Movie_Recommender_System(https://github.com/omulei/Movie_Recommender_System)
+#### [Movie_Recommender_System](https://github.com/omulei/Movie_Recommender_System)
 
 
 #### 📫 Connect with Me
@@ -47,8 +47,7 @@ I'm Ngila (Oscar) Mulei, a Financial Planning and Analysis (FP&A) based in Nairo
 </p>
 
 ---
-
 <footer align="center">
-  ⭐️ From [omulei](https://github.com/omulei)
+  ⭐️ From [Oscar Mulei](https://github.com/omulei)
 </footer>
 
