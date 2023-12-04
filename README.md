@@ -11,8 +11,8 @@
 
 I'm Ngila (Oscar) Mulei, a Financial Planning and Analysis (FP&A) based in Nairobi. I love creating innovative solutions and contributing to open-source projects. When I'm not coding, you'll find me cycling 🚴‍♀️.
 
-- 🔭 I’m currently working on https://github.com/omulei/Movie_Recommender_System
-- 🌱 I’m currently learning https://www.python.org/
+- 🔭 I’m currently working on [Movie_Recommender_System](https://github.com/omulei/Movie_Recommender_System)
+- 🌱 I’m currently learning [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 - 👯 I’m looking to collaborate on Data Analysis
 - 💬 Ask me aboutI’m looking to collaborate on Power BI|Tableau Public|SQL|Python|Microsoft Excel
 - 📫 How to reach me: omulei@gmail.com
@@ -21,10 +21,11 @@ I'm Ngila (Oscar) Mulei, a Financial Planning and Analysis (FP&A) based in Nairo
 #### 💻 Technologies & Tools
 
 <code><img height="20" src="https://staging.python.org/static/community_logos/python-logo-master-v3-TM.png"></code>
-<code><img height="20" src="https://logos-world.net/excel-logo/"></code>
+<code><img height="20" src="https://logowik.com/content/uploads/images/microsoft-excel-new.jpg"></code>
 <code><img height="20" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></code>
 <code><img height="20" src="https://logowik.com/content/uploads/images/microsoft-power-bi4194.jpg"></code>
-
+<code><img height="20" src="https://logowik.com/pandas-logo-vector-svg-png-free-download-22087.html"></code>
+<code><img height="20" src="https://pnghq.com/tableau-full-logo-transparent-png-85396/"></code>
 
 #### 📈 GitHub Stats
 
@@ -48,6 +49,6 @@ I'm Ngila (Oscar) Mulei, a Financial Planning and Analysis (FP&A) based in Nairo
 
 ---
 <footer align="center">
-  ⭐️ From [Oscar Mulei](https://github.com/omulei)
+  ⭐️ From .[omulei].(https://github.com/omulei)
 </footer>
 
