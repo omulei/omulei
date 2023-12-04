@@ -24,8 +24,8 @@ I'm Ngila (Oscar) Mulei, a Financial Planning and Analysis (FP&A) based in Nairo
 <code><img height="20" src="https://logowik.com/content/uploads/images/microsoft-excel-new.jpg"></code>
 <code><img height="20" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></code>
 <code><img height="20" src="https://logowik.com/content/uploads/images/microsoft-power-bi4194.jpg"></code>
-<code><img height="20" src="https://logowik.com/pandas-logo-vector-svg-png-free-download-22087.html"></code>
-<code><img height="20" src="https://pnghq.com/tableau-full-logo-transparent-png-85396/"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code>
+<code><img height="20" src="https://commons.wikimedia.org/wiki/File:Tableau_Logo.png"></code>
 
 #### 📈 GitHub Stats
 
@@ -49,6 +49,6 @@ I'm Ngila (Oscar) Mulei, a Financial Planning and Analysis (FP&A) based in Nairo
 
 ---
 <footer align="center">
-  ⭐️ From .[omulei].(https://github.com/omulei)
+  ⭐️ From https://github.com/omulei
 </footer>
 
