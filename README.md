@@ -21,9 +21,9 @@ I'm Ngila (Oscar) Mulei, a Financial Planning and Analysis (FP&A) based in Nairo
 #### 💻 Technologies & Tools
 
 <code><img height="20" src="https://staging.python.org/static/community_logos/python-logo-master-v3-TM.png"></code>
-<code><img height="20" src="https://en.m.wikipedia.org/wiki/File:Microsoft_Office_Excel_%282019%E2%80%93present%29.svg"></code>
+<code><img height="20" src="https://techcommunity.microsoft.com/t5/excel/excel-logo/m-p/3433211"></code>
 <code><img height="20" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></code>
-<code><img height="20" src="https://en.m.wikipedia.org/wiki/File:Pandas_logo.svg"></code>
+<code><img height="20" src="https://logowik.com/content/uploads/images/microsoft-power-bi4194.jpg"></code>
 
 
 #### 📈 GitHub Stats
