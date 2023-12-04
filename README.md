@@ -44,6 +44,7 @@ I'm Ngila (Oscar) Mulei, a Financial Planning and Analysis (FP&A) based in Nairo
 <p align="center">
   <a href="https://www.linkedin.com/in/ngilamulei-ke/"><img alt="LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
+
 ---
 <footer align="center">
   ⭐️ From https://github.com/omulei
