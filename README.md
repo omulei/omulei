@@ -11,10 +11,7 @@
 
 I'm Ngila (Oscar) Mulei, a Financial Planning and Analysis (FP&A) based in Nairobi. I love creating innovative solutions and contributing to open-source projects. When I'm not coding, you'll find me cycling 🚴‍♀️.
 
-- 🔭 I’m currently working on [Movie_Recommender_System](https://github.com/omulei/Movie_Recommender_System)
-- 🌱 I’m currently learning [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)
-- 👯 I’m looking to collaborate on Data Analysis
-- 💬 Ask me aboutI’m looking to collaborate on Power BI|Tableau Public|SQL|Python|Microsoft Excel
+- 💬 Ask me about Power BI|Tableau Public|SQL|Python|Microsoft Excel
 - 📫 How to reach me: omulei@gmail.com
 
 
